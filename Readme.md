@@ -10,11 +10,19 @@ It is designed for checking $FET coin statement.
 
 ## Getting Started
 1. Install dependencies using `poetry install`.
-2. Run the agent: 
+
+2. Create .env and fill following this structure:
+```bash
+    ASI1_API_KEY="key_to_asi:one_ai"
+    SEED="123456"
+```
+
+3. Run the agent: 
 ```bash
     poetry run python agent.py
 ```
-3. Use test.py to test:
+
+4. Use test.py to test:
 ```bash
     poetry run python test.py
 ```
