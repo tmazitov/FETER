@@ -41,26 +41,20 @@ Use the capability of ASI:One LLM to analayze recent price data to determine tre
 ## 🎬 Demo
 
 ### Video Demo
-[Link to demo video](https://github.com/rrangwan/Fetch.AI_Hackathon_Dubai_2025_submission-/blob/main/docs/demo.mp4)
+[Link to demo video](https://github.com/tmazitov/FETER/blob/master/docs/demo.mp4)
 
 ### Screenshots
-[screenshots showcasing agent in action](https://github.com/rrangwan/Fetch.AI_Hackathon_Dubai_2025_submission-/blob/main/docs/screenshots.pdf)
+[screenshots showcasing agent in action](https://github.com/tmazitov/FETER/blob/master/docs/slides.pdf)
 
 ## 💼 Business Potential
 
-Our celebrity voice agent platform unlocks significant market opportunities with diverse revenue streams:
+Increase adoption of $FET coin
 
 ### **Target Audience**
-- Celebrities, public figures, and content creators seeking enhanced fan engagement.
-- Entertainment companies managing artist portfolios.
-- Sports personalities and fans desiring personalized interactions.
+Crypto Investors
 
 ### **Revenue Streams**
-- Subscription plans for celebrities based on interaction volume.
-- Sharing of royalties from musical content generation.
-- Premium fan experiences (e.g., personalized messages, custom content).
-- Sponsored interactions via brand partnerships.
-- White-label solutions for entertainment companies.
+Pay per click/view or subscription
 
 ### **Scalability**
 - Cloud-based architecture for rapid onboarding.
