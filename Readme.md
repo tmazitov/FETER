@@ -44,7 +44,7 @@ Use the capability of ASI:One LLM to analayze recent price data to determine tre
 [Link to demo video](https://github.com/tmazitov/FETER/blob/master/docs/demo.mp4)
 
 ### Screenshots
-[screenshots showcasing agent in action](https://github.com/tmazitov/FETER/blob/master/docs/slides.pdf)
+[screenshots showcasing agent in action](https://github.com/tmazitov/FETER/blob/master/docs/fetter_screenshots.pdf)
 
 ## 💼 Business Potential
 
@@ -73,29 +73,10 @@ Pay per click/view or subscription
 
 ## 📚 Additional Documentation
 
-- [ Link to your project presentation/pitch deck](https://github.com/rrangwan/Fetch.AI_Hackathon_Dubai_2025_submission-/blob/main/docs/CelebrityAI.pdf)
-- [Link to one-page project summary](https://github.com/rrangwan/Fetch.AI_Hackathon_Dubai_2025_submission-/blob/main/docs/CelebrityAI.pptx)
-- [Summary](https://github.com/rrangwan/Fetch.AI_Hackathon_Dubai_2025_submission-/blob/main/docs/summary.pdf)
+- [ Link to your project presentation/pitch deck](https://github.com/tmazitov/FETER/blob/master/docs/slides.pdf)
 
-## 📊 Track-Specific Information
 
-### For Creator Economy Track
 
-We collaborated with N1yah, a celebrity who aspired to connect with her fans more effectively through a digital presence. She envisioned a solution that could replicate her voice and personality, enabling her to engage with her audience at scale while maintaining authenticity. After brainstorming together, we conceptualized and developed a digital voice clone powered by AI.
-
-This AI-driven voice clone not only captures Niyah's tone and style but also performs a variety of tasks, including:
-- Responding to fan messages in her voice.
-- Delivering personalized content such as greetings or shoutouts.
-- Creating an immersive and authentic fan experience.
-
-Using Fetch.AI's agent framework, ASI-1 Mini and the F5-TTS model, we brought this vision to life. The agent performs ethical checks, generates celebrity-style responses, and converts them into a realistic voice using advanced voice synthesis. This solution allows Niyah to maintain a meaningful connection with her fans while saving time and effort, showcasing how digital clones can transform fan engagement in the creator economy.
-### For ASI-1 Mini Challenge
-
-During development, we faced challenges due to the lack of sample data for ASI-1 Mini. With guidance from mentors, we successfully integrated ASI-1 Mini for:
-- Ethical text filtering to ensure guideline compliance.
-- Celebrity-style text generation for engaging responses.
-
-This integration showcases ASI-1 Mini's reasoning capabilities, enabling precise and efficient multi-step task execution.
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
